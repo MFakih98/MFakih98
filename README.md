@@ -1,7 +1,7 @@
 ### Hi there 👋, Mohamed Fakih
 #### Embedded software Engineer  <img align="right" alt="coding" length="400" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"> 
 
-I'm Ibrahim from Egypt ,I do Embedded system programming using c/c++.I enjoy learinng about programming language and technology .I also like to know about control techniques in general.
+I'm Mohamed from Egypt ,I do Embedded system programming using c/c++.I enjoy learinng about programming language and technology .I also like to know about control techniques in general.
 
 ## Skills: 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FreeRTOS_logo_2005.svg/2560px-FreeRTOS_logo_2005.svg.png" alt="rtos" width="40" height="40"/> 
